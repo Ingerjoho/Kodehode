@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <body>
+    <p> HTML stands for Hypertext Markup Language. HTML is a collection of codes and symbols. 
+        This is simple yet important language that helps in web page construction. 
+        The programmer has to write structured documents for text such as headings, lists,
+        links, paragraphs, quotes, tables, videos, images and other items.
+    </p>
+
+<br>
+    <p>The HTML tags and document structure are easily identified by the browser using tags and then make the right decision on presenting the document.
+    Every page on the internet comprises HTML code using which one can read text and images
+    </p>
+
+    <hr style="width:50%;text-align:left;margin-left:0">
+   
+    <img src="j.jpg"  width="128" height="128" alt="Food">
+
+    <img src="me.jpg" width="128" height="128">
+    
+    <img src="https://thesavvyimg.co.uk/wp-content/uploads/2019/03/Main-Pathway-pic-ThesavvyIMG.jpg"  width="128" height="128" alt="other website">
+   
+    <p>
+
+    </p>
+
+    <header>
+
+    </header>
